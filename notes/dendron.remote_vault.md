@@ -2,7 +2,7 @@
 id: hsexo3oyat3jze1ub6bf90o
 title: Remote_vault
 desc: ''
-updated: 1676818555757
+updated: 1676820351277
 created: 1676815576383
 ---
 A remote vault is not saved on your local drive but on the internet, e.g. GitHub.
@@ -21,5 +21,7 @@ To be able to automatically connect to GitHub you need to link your .ssh-key to 
 - Go to your ssh-folder (should be in the user folder)
 - Copy the text inside of your .pub file
 - Go to "Settings" in your GitHub account and add the conent of your .pub-ssh-key
-- ![](/assets/images/2023-02-19-15-55-24.png)
-  
+![](/assets/images/2023-02-19-15-55-24.png){max-width: 600px, border: 2px solid gray}
+
+------
+When updating the remote vault, don't forget to write a message. Otherwise it'll fail.
