@@ -1,0 +1,287 @@
+$! encoding: utf-8
+$ Session File written by Animator 4
+$ Session started Tue Feb 21 09:11:15 2023
+$
+$ Command Line Arguments:
+$ Note: special characters are not escaped in names / strings etc.
+$ > Read input / result file with autoload settings: '\\mucfs\project\BMW\EP-620\P58160_Verifikation_Kopfaufprallsimulation\work\41_Simulations\G45\work_Nikolai\BMW_energy_analysis\G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15_temp.ses'
+$ End of Command Line Arguments.
+v["Model"]:xcm vie max
+v["Model"]:xcm pos 0 0
+v["Model"]:xcm siz 2372 868
+xcm wor siz 2378 874
+$ From commandline:
+$ rea ses "\\mucfs\project\BMW\EP-620\P58160_Verifikation_Kopfaufprallsimulation\work\41_Simulations\G45\work_Nikolai\BMW_energy_analysis\G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15_temp.ses" 
+
+xcm vie arr til
+v["Model"]:xcm pop
+v["HIC(d)-curve"]:xcm pop
+v["Energies_groups"]:xcm pop
+v["Acceleration over displacement"]:xcm pop
+v["Video"]:xcm pop
+v["pView"]:xcm pop
+pre rem 1
+v["pView"]:xcm win clo
+v["Model"]:vie swi on
+v["Model"]:xcm pop
+v["Acceleration over displacement"]:vie swi on
+v["Acceleration over displacement"]:xcm pop
+s["BFUA103031"]v["Acceleration over displacement"]:c2d sel cur 5
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Acceleration over displacement"]:c2d sel cur 5000
+xcm dia c2d lis on
+xcm dia c2d rat on
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Acceleration over displacement"]:c2d sel cur 5000
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Acceleration over displacement"]:c2d sel cur 5000
+s["BFUA103031"]v["Acceleration over displacement"]:c2d sel cur 5
+s["BFUA103031"]v["Acceleration over displacement"]:c2d sel cur 5
+s["BFUA103031"]v["Acceleration over displacement"]:c2d sel cur 5
+s["BFUA103031"]v["Acceleration over displacement"]:c2d sel cur 5
+s["BFUA103031"]v["Acceleration over displacement"]:c2d sel cur 5
+s["BFUA103031"]v["Acceleration over displacement"]:c2d sel cur 5
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Acceleration over displacement"]:c2d sel cur 5000
+v["Video"]:vie swi on
+v["Video"]:xcm pop
+v["HIC(d)-curve"]:vie swi on
+v["HIC(d)-curve"]:xcm pop
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3753
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3753
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3753
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3753
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["BFUA103031"]v["HIC(d)-curve"]:c2d sel cur 2
+s["BFUA103031"]v["HIC(d)-curve"]:c2d sel cur 1
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocorc([0:3752], [1:1], "auto", 0, 0.016)
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocor([0:3752], [1:1], "auto", 0, 0.016)
+v["HIC(d)-curve"]:c2d sel res
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocorc([0:3752], [1:1], "auto", 0, 0.014)
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocor([0:3752], [1:1], "auto", 0, 0.014)
+v["Model"]:vie swi on
+v["Model"]:xcm pop
+v["Model"]:ctrlview_l init 1687.85 32.5385 1241.08
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00257069 -0.0198511
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00514139 -0.0248139
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00642674 -0.0496278
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00128535 -0.0372208
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00128535 -0.0347395
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.057072
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.044665
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.0372208
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.0248139
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.0397022
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.044665
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.0372208
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 -0.0272953
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 -0.0322581
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 -0.00992556
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 -0.0322581
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 -0.0272953
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 -0.00992556
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00514139 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.0205656 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0.0308483 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.0796915 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.0372751 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.029563 -0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0.0347044 -0.00992556
+v["Model"]:ctrlview_l mouse 1 0 0 0.0141388 -0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0.0244216 -0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0.0218509 -0.00992556
+v["Model"]:ctrlview_l mouse 1 0 0 0.0269923 -0.00744417
+v["Model"]:ctrlview_l mouse 1 0 0 0.0102828 -0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 0
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 0.0124069
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00744417
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00257069 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00128535 0
+v["Model"]:ctrlview_l init 1779.39 -715.094 977.689
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00257069 0
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00385604 0
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00899743 0
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0115681 0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0205656 0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0257069 0.00992556
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00899743 0
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00899743 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 -0.029563 0.00992556
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0141388 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0167095 0.00744417
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0167095 0.00992556
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0218509 0.0173697
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0192802 0.0173697
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00899743 0.0124069
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0115681 0.0198511
+v["Model"]:ctrlview_l mouse 1 0 0 -0.0128535 0.0397022
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00771208 0.0223325
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00385604 0.0124069
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00128535 0.0198511
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00257069 0.0198511
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.0272953
+v["Model"]:ctrlview_l mouse 1 0 0 0 0.00992556
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 0.0248139
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 0
+v["Model"]:ctrlview_l init 1651.36 379.547 -124.223
+v["Model"]:ctrlview_l mouse 0 1 0 -0.0167095 -0.00248139
+v["Model"]:ctrlview_l mouse 0 1 0 -0.0359897 -0.0124069
+v["Model"]:ctrlview_l mouse 0 1 0 -0.0269923 -0.00744417
+v["Model"]:ctrlview_l mouse 0 1 0 -0.12982 -0.057072
+v["Model"]:ctrlview_l mouse 0 1 0 -0.0244216 -0.00992556
+v["Model"]:ctrlview_l mouse 0 1 0 -0.0385604 -0.00992556
+v["Model"]:ctrlview_l mouse 0 1 0 -0.00257069 0
+v["Model"]:ctrlview_l init 2100.35 432.04 209.508
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 0
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 -0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 -0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0.00385604 -0.0173697
+v["Model"]:ctrlview_l mouse 1 0 0 0.00257069 -0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 0.00128535 -0.0124069
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.00744417
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00128535 -0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 0 -0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00514139 -0.00248139
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00128535 -0.00496278
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00128535 0
+v["Model"]:ctrlview_l mouse 1 0 0 -0.00128535 0
+xcm dia c2d lis on
+v["Acceleration over displacement"]:vie swi on
+v["Acceleration over displacement"]:xcm pop
+xcm vie arr til
+s[act]v[new]:c2d add 0:5004/0:5006/0:5008/0:5009/0:5010/0:5011/0:5014/0:5016/0:5018/0:5019/0:5020/0:5021
+v["Curve"]:vie swi on
+v["Curve"]:xcm pos 1764 0
+v["Curve"]:xcm siz 600 400
+v["Curve"]:xcm pop
+v["Curve"]:xcm vie max
+v["Curve"]:xcm pos 0 0
+v["Curve"]:xcm siz 2372 868
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5004
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5006
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5008
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5009
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5010
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5011
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5014
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5016
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5018
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5019
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5020
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5021
+v["Curve"]:c2d sel res
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5004
+v["Curve"]:c2d sel res
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5014
+v["Curve"]:c2d sel res
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5016
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5006
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5006
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve"]:c2d sel cur 5016
+v[act]: c2d tit fon siz 10
+ v[act]: c2d leg fon siz 7
+ v[act]:c2d xax 1st tit fon siz 8
+ v[act]:c2d xax 1st uni fon siz 8
+ v[act]:c2d xax 1st num fon siz 6
+ v[act]:c2d yax 1st tit fon siz 8
+ v[act]:c2d yax 1st uni fon siz 8
+ v[act]:c2d yax 1st num fon siz 6
+ v[act]:c2d wid all 1
+v["Curve"]:c2d sel res
+xcm vie arr til
+v["HIC(d)-curve"]:vie swi on
+v["HIC(d)-curve"]:xcm pop
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["BFUA103031"]v["HIC(d)-curve"]:c2d sel cur 1
+s["BFUA103031"]v["HIC(d)-curve"]:c2d sel cur 1
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocorc([0:3752], [1:1], "auto", 0, 0.014)
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocor([0:3752], [1:1], "auto", 0, 0.014)
+xcm dia c2d rat off
+xcm dia c2d lis on
+s[act]v[new]:c2d add 0:3752/1:1
+v["Curve (1)"]:vie swi on
+v["Curve (1)"]:xcm pos 1764 0
+v["Curve (1)"]:xcm siz 600 400
+v["Curve (1)"]:xcm pop
+v["Curve (1)"]:xcm vie max
+v["Curve (1)"]:xcm pos 0 0
+v["Curve (1)"]:xcm siz 2372 868
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve (1)"]:c2d sel cur 3752
+s["BFUA103031"]v["Curve (1)"]:c2d sel cur 1
+v["Curve (1)"]:c2d sel res
+col bac white
+col ove black
+xcm vie arr til
+xcm dia c2d rat on
+xcm dia c2d lis on
+c2d mod yun "m/(s^2)" 0:3752/1:1
+xcm dia c2d lis off
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocorc([0:3752], [1:1], "auto", 0, 0.014)
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocor([0:3752], [1:1], "auto", 0, 0.014)
+xcm dia c2d rat off
+v["HIC(d)-curve"]:vie swi on
+v["HIC(d)-curve"]:xcm pop
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["HIC(d)-curve"]:c2d sel cur 3752
+v["Curve (1)"]:vie swi on
+v["Curve (1)"]:xcm pop
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve (1)"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:!c2d cal [0:3752] =  cfc(1000, [0:3752],'SAE')
+c2d ren 0:3752 "G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15 (cfc1000, sae)"
+v["Curve (1)"]:c2d era 0:3752
+xcm dia c2d lis on
+v["Curve (1)"]:c2d add 0:3752
+xcm dia c2d rat on
+xcm dia c2d rat off
+xcm dia c2d rat on
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve (1)"]:c2d sel cur 3752
+xcm dia c2d lis on
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve (1)"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve (1)"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve (1)"]:c2d sel cur 3752
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]v["Curve (1)"]:c2d sel cur 3752
+xcm dia c2d lis on
+xcm dia c2d lis off
+xcm dia c2d rat off
+xcm dia c2d lis on
+s["G45_VBBG_OP_ND_001v904e3_HV48_OP2-B02_270_-5_15"]:c2d cal isocor([0:3752], [1:1], "auto", 0, 0.014)
+v["HIC(d)-curve"]:vie swi on
+v["HIC(d)-curve"]:xcm pop
+v["HIC(d)-curve"]:xcm vie max
+v["HIC(d)-curve"]:xcm pos 0 0
+v["HIC(d)-curve"]:xcm siz 2372 868
+bye

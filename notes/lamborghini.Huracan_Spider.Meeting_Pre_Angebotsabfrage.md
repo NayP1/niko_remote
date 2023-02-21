@@ -2,7 +2,7 @@
 id: 4pkjncgzi7f9eva491bfd3o
 title: Meeting Pre Angebotsabfrage
 desc: ''
-updated: 1676899495983
+updated: 1676969361991
 created: 1676886581013
 ---
   ### Date:
@@ -32,4 +32,3 @@ created: 1676886581013
     - Wie viele Konfigurationen gibt es?
     - Verstellbare Lenksäule?
     - Lead wird bei ARRK liegen und nicht bei CSI (obwohl Lamborghini auf CSI zugegangen ist)
-    - 
