@@ -2,7 +2,7 @@
 id: d6m7rqfokxoi7zf36dxt9wf
 title: CORA-Rating
 desc: ''
-updated: 1676969187303
+updated: 1676997250511
 created: 1676963795876
 ---
 ### CORA Rating - CORrelation and Analysis
@@ -17,7 +17,7 @@ Die CORA-Methode vereint die folgenden Methoden zu einem Gesamt-Rating-Zahlenwer
 ![](/assets/images/2023-02-21-08-18-19.png)
 
 
-Rating R &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp|		Grade &nbsp &nbsp &nbsp &nbsp &nbsp|		Description 
+Rating R|		Grade |		Description 
 ---------|----------|---------
 R > 0.94|		Excellent|	Almost perfect characteristics of the reference signal is captured
 0.8 < R ≤ 0.94|		Good|		Reasonably good characteristics of the reference signal is captured, but there are noticeable differences between both signals
@@ -27,5 +27,5 @@ R > 0.94|		Excellent|	Almost perfect characteristics of the reference signal is 
 ### ARRK-Path to PPT:
 ```\\mucfs\project\BMW\EP-620\P58160_Verifikation_Kopfaufprallsimulation\work\50_Reports\Projektdokumentation\ARRK\CORA\230220_CORA_Rating_Kochrezept.pptx```
 
-### Exmaple of animator4 command:
+### Example of animator4 command:
 ```s[0]:c2d cal isocor([0:3752], [1:1], "auto", 0, 0.014)```
