@@ -1,8 +1,8 @@
 ---
 id: hsexo3oyat3jze1ub6bf90o
-title: Remote_vault
+title: Remote Vault
 desc: ''
-updated: 1676823518073
+updated: 1677049153078
 created: 1676815576383
 ---
 A remote vault is not saved on your local drive but on the internet, e.g. GitHub.

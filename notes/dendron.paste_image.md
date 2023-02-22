@@ -1,8 +1,8 @@
 ---
 id: 21hki6pvxt185h2joleqa27
-title: Paste_image
+title: Paste Image
 desc: ''
-updated: 1676820406609
+updated: 1677049149827
 created: 1676818932302
 ---
 To paste images from your clipboard you need to install an extension.

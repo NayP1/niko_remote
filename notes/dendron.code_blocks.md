@@ -1,8 +1,8 @@
 ---
 id: ishcd8nshd0k38skf3yf98v
-title: Code_blocks
+title: Code Blocks
 desc: ''
-updated: 1676823897547
+updated: 1677049161985
 created: 1676823565036
 ---
 Markdown language provide you with the posibility to add code blocks:

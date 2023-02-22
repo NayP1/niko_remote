@@ -2,7 +2,7 @@
 id: m0mz8fn63bmjpfa5uks0fs6
 title: Kalkulation Umfänge 201u
 desc: ''
-updated: 1676999655858
+updated: 1677050972011
 created: 1676973652824
 ---
 ### Annahmen
@@ -51,3 +51,4 @@ Dauer der Entwicklung: grob 2,5 Jahre (30 Monate)
 - Durchschnittliche Anzahl an Simulationen pro Variante: ```10```
 - Rechenzeit pro Variante mit 40 CPU: ```2h``` (keine Erfahrungswerte auf dem ARRK Cluster! Bei VW waren es 1h mit 48 CPUs (?) )
 - Lizenz- und Hardwarekosten pro Stunden: ```3,30 €/h```
+- Keine Lizenzkosten für FMH erwartet. Annahme, dass wir Audi/VW FMH bekommen. Ist auch in Interesse von Lamborghini, damit ihre OEM-Skripte sofort funktionieren. Muss aber im Angebot erwähnt werden

@@ -1,8 +1,8 @@
 ---
 id: 24kh5oujri960rnvnkjgx3p
-title: arange method
+title: arange()
 desc: ''
-updated: 1676963283273
+updated: 1677049193329
 created: 1676963070019
 ---
 ```np.arange()``` is a method provided by the NumPy library in Python, which creates an array of evenly spaced values within a specified interval.
