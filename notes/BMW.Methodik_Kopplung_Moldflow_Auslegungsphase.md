@@ -1,8 +1,8 @@
 ---
 id: a2uzr2dc9cqxhow80zjwcnc
-title: Methodik Kopplung Moldflow Auslegungsphase (P61076)
+title: Methodik Moldflow (P61076)
 desc: ''
-updated: 1677071617252
+updated: 1677092169103
 created: 1677057841888
 ---
 ### Was ist Moldflow?

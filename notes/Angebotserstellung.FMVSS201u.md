@@ -1,8 +1,8 @@
 ---
 id: 4d4o3sc78zrh6g49lluvifz
-title: Grundlage Angebot FMVSS201
+title: Grundlage für FMVSS201u
 desc: ''
-updated: 1677077514421
+updated: 1677092094718
 created: 1677047763869
 ---
 ### Beispiel Lamborghini (2,5 Jahren: 2023 - 2025)
