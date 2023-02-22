@@ -1,9 +1,9 @@
 ---
-id: 8p1s0o8m8uipq8drl2kiih9
-title: Huracan Spider
+id: cqs59ln20goywr0d3r5tw84
+title: P64638_Huracan_Spider
 desc: ''
-updated: 1676887020709
-created: 1676879578924
+updated: 1677071284432
+created: 1677071159633
 ---
 E-Mail von Nico am 17.02.2023: WG: TENDER LAMBORGHNINI
 ```sh
@@ -29,4 +29,3 @@ Huracan
 Huracan spider
 
 ![](/assets/images/2023-02-20-08-56-33.png){max-width: 400px, border: 2px solid gray}
-
