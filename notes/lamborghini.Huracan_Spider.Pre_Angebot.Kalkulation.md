@@ -2,7 +2,7 @@
 id: m0mz8fn63bmjpfa5uks0fs6
 title: Kalkulation Umfänge 201u
 desc: ''
-updated: 1677050972011
+updated: 1677077554974
 created: 1676973652824
 ---
 ### Annahmen
@@ -44,6 +44,20 @@ Dauer der Entwicklung: grob 2,5 Jahre (30 Monate)
 
 
 ![](\assets\images\2023-02-21-11-37-24.png)
+
+### Kalkulation mit BMW WRV
+**129.530€**
+- 2 x Prüfbereich bestimmen + 2 x Cabrio ( `2 * 2.750€ + 2 * 1.375€ = 8.250€` )
+  - ( In BMW VW gibt es gleiche Anzahl Prüfbereich bestimmen wie für Modellaufbau, mach mMn. wenig Sinn --> Ein Modellaufbau weniger geplant als bei VW? Könnte sein.)
+- 3 x Modellaufbau + 2 x Cabrio ( `3 * 11.100€ + 2 * 7.400€ = 48.100€` )
+- 3 x Systemanalyse und Simulation zu Zielerreichung + 2 x Carbio ( `3 * 8.250€ + 2 * 3.850€ = 32.540€ ` )
+- 2 x Robustheitsanalyse + 1 Cabrio ( `2 * 1.920€ + 1 * 2.560€ = 6400€` )
+- 2 x Versuchsanalyse + 1 Carbio ( `2 * 2.560€ + 1 * 1.920€ = 7.040€` )
+- 1 x Umsetzung Funktionserfüllung + 1 Cabrio ( `17.000€ + 10.200€ = 27.200€` )
+
+`y:\Privat\FMVSS-201u\BMW\004-20200121_Kostenstruktur_FMVSS201u.xlsx`
+
+`Konstenstruktur des WRVs von BMW teilweise unklar. In obiger Kalkulation mit BMW WRV wurden Annahmen über die Anzahl der Pakete selber getroffen!`
 
 ### Sehr grobe Rechnung zu Lizenz und Hardwarekosten
 - **46.200€**

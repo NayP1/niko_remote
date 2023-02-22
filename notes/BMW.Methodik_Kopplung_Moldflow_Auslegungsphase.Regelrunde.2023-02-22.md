@@ -66,7 +66,7 @@ Michael: ANSA gibt eine grobe Abschätzung der Faserorierung; auch ohne Viskosit
 
 Vergleich Simulation-Versuch nur für die Standart-Versuchsträger
 
-Gabriele: Versuchsträger mit [[BMW.P61076_Methodik_Kopplung_Moldflow_Auslegungsphase.Erlanger_Traeger]] könnte sinnvoll sein.
+Gabriele: Versuchsträger mit [[BMW.Methodik_Kopplung_Moldflow_Auslegungsphase.Erlanger_Traeger]] könnte sinnvoll sein.
 
 Erlanger-Träger: Standartgeometrie, kommt durch die Entwicklung von Organoblechen
 
