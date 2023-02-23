@@ -1,8 +1,8 @@
 ---
 id: m0mz8fn63bmjpfa5uks0fs6
-title: Kalkulation 201u
+title: Kalkulation 201u Version 1
 desc: ''
-updated: 1677092150349
+updated: 1677158364853
 created: 1676973652824
 ---
 ### Annahmen
