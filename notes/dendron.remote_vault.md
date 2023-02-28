@@ -2,7 +2,7 @@
 id: hsexo3oyat3jze1ub6bf90o
 title: Remote Vault
 desc: ''
-updated: 1677569568901
+updated: 1677570615468
 created: 1676815576383
 ---
 A remote vault is not saved on your local drive but on the internet, e.g. GitHub.
@@ -41,3 +41,12 @@ ssh-keyscan github.com >> ~/.ssh/known_hosts
 ```
 ----
 When updating the remote vault, don't forget to write a message. Otherwise it'll fail.
+
+---
+Had a lot of problems setting up a 2nd Vault for a team and gave up. After that I had troubles getting my old private vault back.
+While troubleshooting I used a few git-command:
+- `git status`
+- `git remove status -v`
+- `git branch`
+- `git pull origin master`
+- `git config --get remote.origin.url` ( Get remote URL )
