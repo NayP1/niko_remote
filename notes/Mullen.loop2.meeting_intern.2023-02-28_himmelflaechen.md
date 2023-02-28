@@ -2,9 +2,12 @@
 id: e2x9vsnun7v26cpsp4m3o04
 title: 2023-02-28 Himmelflächen 201u
 desc: ''
-updated: 1677582777345
+updated: 1677593330182
 created: 1677576758717
 ---
+### Säulenverkleidungen
+Fehlen bisher noch. Gibt es schon etwas neues?
+
 ### AP1 (255°-Winkel)
 ![](/assets/images/2023-02-28-11-59-53.png){width: 400px, border: 2px solid gray}
 - Im Vergleich zu anderen Fahrzeugen weniger Platz
@@ -25,6 +28,8 @@ created: 1677576758717
 - Bohrung in BIW möglich, damit DHG-Halter weiter eintauchen kann?
 - Himmel weiter nach Fahrzeuginnen schieben wird schwierig wegen Kopffreiheit?
 
+``` Gasgenerator nach vorne verschieben, damit DHG nach vorne kann? Leseleuchte kann dann auch nach vorne verschoben werden ```
+
 ### SR3O
 ![](/assets/images/2023-02-28-10-44-40.png){width: 400px, border: 2px solid gray}
 - 15-Meiler aber mit schlauer Klipposition 12-Meiler
@@ -36,7 +41,7 @@ created: 1677576758717
 - Himmel hinter CSV stärker absenken, durch z.B. 95° zum Fenster hinter CSV
 
 ### UR-Bereich hinten
-- Hinterer UR-Bereich sehr klein und mit kleinen Änderungen wohl nicht schießbar.
+- Hinterer UR-Bereich wurde größer im Vergleich zum Loop1, ist aber sehr klein und mit kleinen Änderungen wohl nicht schießbar.
 - Wurden noch nicht positioniert, da SR30 an der gleichen Position liegt und Worst-Case ist
 - Himmel in diesem Bereich nach oben bewegen, damit FMH mit Dachscheibe durchdringt
   - Konträr zu SR3O
@@ -52,3 +57,8 @@ created: 1677576758717
 ### RH
 - Im Vergleich zu anderen Fahrzeugen weniger Platz (10mm)
 - Himmel horizontal verlaufen lassen
+
+``` Himmel horizontaler sollte kein Problem sein. BIW-Daten alter Stand, da keine Phase im BIW```
+
+### Notizen
+- Ablegen der PPT

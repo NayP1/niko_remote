@@ -2,7 +2,7 @@
 id: 24l8hcvaxrxorh000hk42rc
 title: KW 09
 desc: ''
-updated: 1677575308972
+updated: 1677600837688
 created: 1677571390821
 ---
 ### 27.02
@@ -13,4 +13,6 @@ created: 1677571390821
 
 ### 28.02
 - (08:30 - )
-  - 0,50h [[matfem.Tiefziehsimulation_P64076]]
+  - 2,50h [[matfem.Tiefziehsimulation_P64076]]
+  - 1,00h Training
+  - 3,50h Mullen
