@@ -2,7 +2,7 @@
 id: hsexo3oyat3jze1ub6bf90o
 title: Remote Vault
 desc: ''
-updated: 1677049153078
+updated: 1677569568901
 created: 1676815576383
 ---
 A remote vault is not saved on your local drive but on the internet, e.g. GitHub.
@@ -25,8 +25,15 @@ To be able to automatically connect to GitHub you need to link your .ssh-key to 
 
 ------
 If you don't have a ssh-key you need to create one one your pc.
-``` zsh
-<ssh-keygen -t rsa -b 4096>
+
+``` sh
+ssh-keygen
+```
+
+or on mac
+
+``` sh
+ssh-keygen -t rsa -b 4096
 ```
 If you didn't have a ssh-key you like need to add GitHub as known host:
 ```sh
