@@ -1,8 +1,8 @@
 ---
 id: jud8uzq2ky46xbczc67y0bb
-title: Hindenburg Research
+title: HB Research
 desc: ''
-updated: 1677091395150
+updated: 1677578246178
 created: 1677091068216
 ---
 **[Mullen Automotive: Yet Another Fast Talking EV Hustle](https://hindenburgresearch.com/mullen/)** (April 2022)

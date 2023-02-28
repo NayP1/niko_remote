@@ -2,7 +2,7 @@
 id: 06gef119bnsey8h2j3zr21x
 title: Tiefziehsimulation P64076
 desc: ''
-updated: 1677572054187
+updated: 1677573937192
 created: 1676882798669
 ---
 ### Kunde
@@ -27,3 +27,9 @@ Im Bereich scharfer Kanten ist die Prognosegüte der bisherigen Shells nicht gut
 ### Ordner
 - Dokumente: `\\mucfs\project\MATFEM\Muenchen\P64076_MATFEM_Simulationssupport\work`
 - Ergebnisse: `\\muc-result1\fs1\MATFEM`
+
+### PWs
+- Nextcload: 
+  - https://nextcloud.matfem.de/index.php/s/Kx94okBeCBDrRzw/authenticate/showShare
+  - `fisRPwk5Q6`
+- zip-Datei: `t3S,t_Cra!CH#'`
