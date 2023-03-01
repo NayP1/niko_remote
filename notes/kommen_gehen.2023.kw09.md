@@ -2,7 +2,7 @@
 id: 24l8hcvaxrxorh000hk42rc
 title: KW 09
 desc: ''
-updated: 1677656078118
+updated: 1677688016487
 created: 1677571390821
 ---
 ### 27.02
@@ -18,4 +18,12 @@ created: 1677571390821
   - 3,50h Mullen
 
 ### 01.03
-- (08:30 - )
+- 8,25h (08:30 - 17:15)
+  - 2,50h BMW Moldflow
+  - 5,75h MATFEM Tiefziehen
+
+### 02.03
+
+
+### 03.03
+

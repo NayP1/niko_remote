@@ -2,7 +2,7 @@
 id: duqjxixlol75le3floh1bdx
 title: '2023-03-01'
 desc: ''
-updated: 1677668148503
+updated: 1677675807446
 created: 1677664264173
 ---
 Philipp (krank) und Sven nicht anwesend
@@ -52,10 +52,10 @@ Automatische Einstellung der Kontakte, nur für Materialien möglich, die sich i
 
 ### ANSYS, LSCT und Dynamore
 - ANSYS kaufte LSCT
-- LSCT ist Entwickler von LS DYNA
-- Dynamore ist Vertriebspartner von Dyna
+- LSCT ist Entwickler von LS-DYNA
+- Dynamore ist Vertriebspartner von LS-DYNA
 - Überwiegende Entwicklung in USA. Kontaktentwicklung daher auch wohl in USA
-- Dynamore hat auch Entwickler, aber deutlich weniger wie LSCT
+- Dynamore hat auch Entwickler, aber deutlich weniger als LSCT
 
 ### Status Mapping-Schnittstelle in ANSA 
 ANSA macht Probleme, vermutlich weil Modelle extrem groß ist
