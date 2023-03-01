@@ -5,9 +5,10 @@ desc: ''
 updated: 1677595762211
 created: 1676963695490
 ---
+
 ### Gesetz
 - Englisch: `x:\Xke\intern\PedOS\09_Strategy\FMVSS201\FMVSS201u\Law\FMVSS201_EN_2005-09-15.pdf`
-- Deutsch (von BMW): `x:\Xke\intern\PedOS\09_Strategy\FMVSS201\FMVSS201u\Law\FMVSS201_DE_2005-09-15.pdf`
+- Deutsch (von BMW
 - Prüfvorschrift: `x:\Xke\intern\PedOS\09_Strategy\FMVSS201\FMVSS201u\Law\tp-201u-02_tag.pdf`
 
 ### BMW-Wiki
