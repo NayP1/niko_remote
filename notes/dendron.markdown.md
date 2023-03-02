@@ -2,7 +2,7 @@
 id: tljoy3c8yfzl0k74m37ip71
 title: Markdown
 desc: ''
-updated: 1677050524029
+updated: 1677745941246
 created: 1677050240269
 ---
 Markdown is a lightweight markup language designed to make it easy to write plain text that can be easily converted into structured content, such as HTML or PDF. It was created by John Gruber in 2004 with the goal of enabling people to write text that is easy to read and write, while still being able to convert it into a variety of formats.
@@ -11,18 +11,33 @@ Markdown is widely used for creating documentation, blog posts, and other types 
 
 Markdown allows users to easily add formatting to text, including headings, bold and italic text, links, images, lists, and more, using simple syntax that is easy to remember and type. For example, to create a level one heading, you simply add a single hash symbol (#) before the text, like this:
 
+# Headings
 # This is a level one heading
 ## This is a level two heading
 ### This is a level three heading
 #### This is a level four heading
----
+
+### Links with different text shown
 Similarly, to add a link, you surround the text you want to link with square brackets, and the URL with parentheses, like this:
 
 [Click here to visit the wikipedia entry of markdown](https://en.wikipedia.org/wiki/Markdown)
 
 Markdown is a powerful and versatile tool that can help you create high-quality content quickly and easily. Whether you're writing a blog post, creating documentation for a project, or just taking notes, Markdown can help you get your message across in a clear and concise way.
 
----
+### Table Generator
+https://www.tablesgenerator.com/markdown_tables
+
+|   Component  | Targets |  Hor. Angle | Ver. Angle | Free Rotation |
+|:------------:|:-------:|:-----------:|:----------:|:-------------:|
+|   A-Pillar   |  AP1-3  | 195° - 255° |  -5° - 50° |       5°      |
+|   B-Pillar   |  BP2-4  | 195° - 345° |  -10 - 50° |      10°      |
+|   O-Pillar   |  OP1-2  |     270°    |  -10 - 50° |      10°      |
+|  Rear-Pillar |  RP1-2  | 270° - 345° |  -10 - 50° |      10°      |
+| Front Header |  FH1-2  |     180°    |  0° - 50°  |       5°      |
+|   Side Rail  |  SR1-3  |     270°    |  0° - 50°  |       5°      |
+|  Rear Header |    RH   |      0°     |  0° - 50°  |       5°      |
+|  Upper Roof  |    UR   |     Any     |  0° - 50°  |       5°      |
+
 ### Advantages
 
 Simple syntax: Markdown has a simple and easy-to-learn syntax. It allows you to focus on writing your content, rather than worrying about complex formatting.
@@ -32,6 +47,7 @@ Portability: Markdown files can be easily converted to other formats, such as HT
 Easy to read: Markdown files are plain text files, which are easy to read and edit using any text editor. This also makes it easy to track changes using version control tools like Git.
 
 Widely supported: Markdown is supported by a wide range of tools, platforms, and applications, including GitHub, Stack Overflow, Reddit, and many others.
+
 
 ### Disadvantages
 
