@@ -2,13 +2,13 @@
 id: 24l8hcvaxrxorh000hk42rc
 title: KW 09
 desc: ''
-updated: 1677773185784
+updated: 1677856409388
 created: 1677571390821
 ---
 ## To-Dos
 ### Urgent + Important
-- [ ] : Mullen Meeting vorbereiten
-  - [ ] Koordinaten eintragen
+- [x] : Mullen Meeting vorbereiten
+  - [x] Koordinaten eintragen
 - [ ] : Kochrezept für ANSA-Faserorientierung durchgehen
   - [ ] : ANSA 23.1.0 herunterladen
   - [ ] : Durchgehen
@@ -18,6 +18,7 @@ created: 1677571390821
 - [ ] : 201u Simulation mit freiem Modelle, das von Rumänien aufgebaut wird
   - [ ] : Am Freitag nach Stand fragen
 - [ ] : Erfragen, wie man einen Schnitt aus A2mac1 bekommt
+- [ ] Mullen: In A2mac1 schauen, ob es DHG-Konzepte gibt, die Leselampe oder Mikrofon in DHG-Bereich plazieren
 
 ### 27.02
 - 8,00h (08:15 - 18:15)
@@ -41,4 +42,6 @@ created: 1677571390821
   - 8h Mullen
 
 ### 03.03
-
+- (08:10 - 16:10)
+  - 3,00h Mullen
+  - 4,00h Moldflow (war wirklich sehr zäh)

@@ -1,8 +1,8 @@
 ---
 id: root
-title: Nikos Vault
+title: ENCYCLOPEDIA GALACTICA
 desc: ""
-updated: 1677185391772
+updated: 1677829153124
 created: 1595961348801
 ---
 
