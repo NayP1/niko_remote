@@ -2,14 +2,14 @@
 id: pg30dq0xw1xw79y0qzow1i0
 title: Kalkulation 201u Version 2
 desc: ''
-updated: 1677161203750
+updated: 1678202917047
 created: 1677158375828
 ---
 In Version 1 bin ich von einem Standardauto ausgegangen.
 
 Neue Kalkulation mit startk reduziertem Umfang:
 
-`y:\Privat\FMVSS-201u\Angebotserstellung\Kalkulationshilfe_FMVSS201u_Lamborghini_Huracan_Spyder.xlsx`
+`\\pzs\dfs\project\cp\_b\P646xx\P64638\20_Kostenkalkulation\Kalkulationshilfe_FMVSS201u_Lamborghini_Huracan_Spyder_v01.xlsx`
 
 - 60.000€ Simulation
 - 10.000€ Solver- und Hardwarekosten

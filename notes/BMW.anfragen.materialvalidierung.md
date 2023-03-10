@@ -2,7 +2,7 @@
 id: bu4j9bm7eufacvvzxgj75qt
 title: 2023-03-01 - Materialvalidierung
 desc: ''
-updated: 1678181904458
+updated: 1678350102735
 created: 1678175835595
 ---
 Anfrage von Geoffrey über VE Thema Materialvalidierung vom 1.März
@@ -32,39 +32,45 @@ Viele Grüße
 Geoffrey
 ```
 
+## Vorläufig erstellter Ordner zur Anfrage
+`X:\Xke\intern\PedOS\09_Strategy\FMVSS201\FMVSS201u\Projects\BMW_Materialkarten_Validierung_2023`
+
 ## Umfänge
-4 neue Materialkarten sollen validiert werden.
+4 neue Materialkarten für 4 verschiedene Materialkarten sollen validiert werden.
 
 Die Validation wird erfolgen über:
 - 5 x FMVSS201u-Schusspunkte (AP2, AP3. BP2, BP3, BP4)
-- Versuche mit Musterteilen ( ? )
 
-## Fragen
+## Unklarheiten
 - Geoffrey geht von 8 Kombinationen für Material je Bauteil aus. Woher kommt die Zahl, was bedeutet das?
-  - Ich Frage mal bei Geoffrey am Mittwoch nach
+  - Es sind 4 verschieden Kunststoffmaterialien, die getestet werden. Zum Beispiel sind zwei davon recycelter Kunststoff
+  - Jeweils mit MAT24- und CrachFEM-Materialkarte. Wobei auch fraglich ist, ob die alle Materialien durch MAT24 abgebildet werden können
+- Es werden 4 neue Materialien genannt. Warum 4?
+  - Es sind 4 verschieden Kunststoffmaterialien
   
 ## Annahmen
-Wenn ich es richtig verstehe, möchte Geoffrey nur die fertigen Verkleidungsteile prüfen, also keine Komponententests. 
+Es werden nur 201u-Schüsse validiert, diese vorraussichtlich am Ersatzmodell und auch 3D-Druck?!
 
-Wenn das so ist, stellt sich die Frage, welche Tests Geoffrey im Sinn hat.
-**Ich gehen mal davon aus, dass 2 statische Druckversuche geplant werden.**
-Alternativ könnte man Fallturmversuche machen, oder Komponententest (Zugstab, 3-Punkt-Biegeversuch) machen
+## Meine Kalkulation
 
-## Kalkulation
-
-### Gesamt
-5.280€ (70.4h x 75€)
+### Gesamt #1 (über Validierungsvarianten von VW)
+`8.200€ (109.3h x 75€)`
 
 Grundlage für die Preise siehe unten.
+- 6.400€ (5 Versuchsabgleiche)
+- 1.800€ (5 Meetingrunden und Abschlussdokumentation)
 
-- 2.800€ (5 Versuchsabgleiche)
-- 1.280€ (2 Komponentenversuche)
-- 1.200€ (5 Meetingrunden)
+### Gesamt #2 (über Validierungspaket aus Methodenentwicklung Interieur)
+`8592€ (114.6h x 75€)`
+
+Grundlage für die Preise siehe unten.
+- 6.792€ (4 Verschiedene Materialien, 4 x Validierungsaufwand)
+- 1.800€ (5 Meetingrunden und Abschlussdokumentation)
 
 ### 5 Versuchsabgleiche
-Ich gehe mal davon aus, dass initial 5 regülare Versuchsabgleiche durchgeführt werden:
+5 Versuchsabgleiche durchgeführt werden, diese werden aber jeweils mit 8 verschiedenen Materialien geschossen. Wird also durchaus aufwändiger als reguläre Versuchsabgleiche. Annahme, dass sie drei mal so aufwändig sind, daher 1.080€ (Es gibt schließlich für jeden Punkt 4 reale Versuche)
 
---> 1.800€ (5 x 360€)
+--> 5.400€ (5 x 1.080€)
 
 Sollten die Ergebnisse nicht passen, werden vorraussichtlich weiter Simulationen (Annahme 5 Stück) durchgeführt.
 
@@ -80,17 +86,16 @@ Sollten die Ergebnisse nicht passen, werden vorraussichtlich weiter Simulationen
 > - Preis für eine Versuchsvariante, für die nachpositioniert werden muss
 > - `x:\Xke\intern\PedOS\09_Strategy\FMVSS201\FMVSS201u\Kalkulation\20220405_Leistungsverzeichnis_VW_2021_008482_Kalkulation_Bestpreis_v01_m_BCC.xlsx`
 
+### Validierung mit neuer Materialkarte
+--> 6.792€ (4 x 1.698€)
+> Relevante Zahlen aus Materialentwicklung Interieur:
+> - 6.8) Validierung 1.698€ 
+> - ![](C:\Users\patrzek\Dendron\notes\assets\images\2023-03-08-13-17-07.png){width: 600px, border: 2px solid gray}
 
-### Versuche mit Musterteilen
-Annahme, dass zwei Drucktests mit jeweils einer A- und B-Säulenverkleidung durchgeführt werden
-
-Kosten für Test: Im Testlabor anfragen
-
-Kosten für Auswertung: 1.280€ (2 Tage Arbeit?)
-
-### Aufwand für Meetings
+### Aufwand für Meetings und Dokumentation
 Annahme, dass im Laufe des Angebots 5 Meetings stattfinden werden.
 
 Inklusive Vor- und Nachbereitung: 3h
 
 1.200€ (5 Meetings x 3h)
+600€ (Eine Abschlussdoku, 8h Arbeit)
