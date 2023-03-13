@@ -2,7 +2,7 @@
 id: 36d83gcu4519mfw7mpldi24
 title: KW 10
 desc: ''
-updated: 1678435403520
+updated: 1678456694433
 created: 1678114698369
 ---
 ## To-Dos
@@ -26,11 +26,8 @@ created: 1678114698369
   - 2h Moldflow
   - 3h Training
 
-### 07.03
-- 0,00h (08:30 - 17:15)
-  - 2h Mullen
-  - 4,5h Moldflow
-  - 1h Training
+
+
 ### 08.03
 - 0,00h (08:30 - 17:30)
   - 5,00h Moldflow
@@ -43,4 +40,6 @@ created: 1678114698369
   - 3,50h Moldflow
 
 ### 10.03
-- 0,00h (09:00 - 
+- 5,00h (09:00 - 15:00
+  - 3h Mullen
+  - 2h Moldflow

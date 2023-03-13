@@ -2,7 +2,7 @@
 id: cqev4cpqt1reingamj6nraa
 title: Fragen
 desc: ''
-updated: 1677758157287
+updated: 1678725801239
 created: 1677055033053
 ---
 ### Relokalisierung bei nur einer SOBL-Konfiguration notwendig?
@@ -20,3 +20,11 @@ Wie wird ermittelt, ob Punkt mit der Kanone tatsächlich geschossen werden könn
 Auf was muss man achten?
 
 Unterschiede zwischen Hard- und Softtop?
+
+### AP2
+Ich hatte den Fall, dass AP2 auf dem Himmel lag, das geht oder? Ich war nur verwirrt, da man z.B. extra die PID der A-Säulenverkleidung angeben soll.
+
+### SR3B und SR3O
+Meinest Wissens nach wurden bei VW diese beiden Punkte auch entwickelt, obwohl es einen DHG gab.
+
+Grund vielleicht, dass im Falle eines Wegfallens der DHGs diese dann erst relevanten Punkte bereits mitentwickelt worden sind?

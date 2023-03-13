@@ -2,7 +2,7 @@
 id: 4p9j7e6e47whc2vfps4lbn2
 title: BMW
 desc: ''
-updated: 1676798428819
+updated: 1678694233147
 created: 1676794774770
 ---
 ## Links
@@ -22,3 +22,12 @@ created: 1676794774770
 **[Outlook BMW](https://owa-pwpp.bmwgroup.net/owa/#path=/mail)**
 
 **[VSC Next Tutorial](https://atc.bmwgroup.net/confluence/display/VDCN/Training+Material)**
+
+### Ansprechpartner Material-Themen
+
+|                  Material                  |                   Ansprechparner                   |
+|:------------------------------------------:|:--------------------------------------------------:|
+| Elastomere, Schäume, Spritzguß-Kunststoffe |                  Gabriele Fruhmann                 |
+|                   Metalle                  |                   Michal Styrnik                   |
+|                 Klebstoffe                 |                   Harald Schmadl                   |
+|                normale MATDB               | Michal Styrnik, Rassin Grantab, Hariaokto Hooputra |

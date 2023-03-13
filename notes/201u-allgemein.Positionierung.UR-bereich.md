@@ -2,7 +2,7 @@
 id: zts1zdsu4naxbmxcqvckl9g
 title: UR-Bereich
 desc: ''
-updated: 1677596437231
+updated: 1678456238138
 created: 1677595398954
 ---
 ### Vorschrift
@@ -15,7 +15,6 @@ Es heißt beispielsweise:
 
 `Locate the transverse vertical plane, A, at the forwardmost point where it contacts the interior roof (including trim but not attachments such as the rearview mirror or center high-mounted stop lamp [CHMSL]) at the vehicle centerline. Figure 10 illustrates the referenced locations.`
 
-Nach BMW Dokumenten wird aber nicht nur die Mittellinie berücksichtig für den Start und das Ende von X, sondern allgemein der vorderste Bereich:
+Nach BMW Dokumenten wird aber nicht nur die Mittellinie berücksichtig für den Start und das Ende von X, sondern allgemein der vorderste/hinterste Bereich:
 
 ![](/assets/images/2023-02-28-15-59-18.png){width: 600px, border: 2px solid gray}
-
